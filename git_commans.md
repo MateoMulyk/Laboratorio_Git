@@ -6,7 +6,8 @@ git clone: Nos sirve para clonar los repositorios
 
 git pull: extraer y descargar contenido del supositorio remoto para nuestro supositorio local.
 
-git checkout: Nos sirve para extraer una rama, de esa manera se actualizan los archivosen el directorio de trabajo para reflejar la version almacenada en esa rama.
+git checkout: Nos sirve para extraer una rama, de esa manera se actualizan los archivosen el directorio de trabajo 
+              para reflejar la version almacenada en esa rama.
 
 git log: Nos sirve para ver los cambios que se ha, para buscar una version concreta del proyecto. 
 
@@ -14,7 +15,8 @@ git branch: nos sirve para crear, enumerar y eliminar ramas, así como cambiar s
 
 git add: Nos sirve para añadir un archivo al staging area
 
-git commit: nos permite crear una cptura del directorio del entorno en el historial de confirmaciones de los repositorios.
+git commit: nos permite crear una cptura del directorio del entorno en el historial de confirmaciones de los 
+            repositorios.
 
 git push: Nos sirve para subir los cambios del repositorio local al repositorio remoto.
 
