@@ -18,4 +18,4 @@ Describe que hacen los siguientes comandos de git, escribe su descripcion al fre
 
 `git push`: Nos sirve para subir los cambios del repositorio local al repositorio remoto.
 
-`git merge`: Nos sirve para mezclar las ramas creadas en una sola rama.
+`git merge`: Nos sirve para mezclar las ramas creadas en una sola rama aceptando los cambios finales.
